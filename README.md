@@ -1,1 +1,1 @@
-# friendemicCodeChallenge
+# Code Example
